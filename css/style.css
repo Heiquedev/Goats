@@ -1,0 +1,305 @@
+a {
+  color: aliceblue;
+}
+body {
+  background-color: #212529;
+}
+
+.table,
+.table-bordered,
+.table-dark {
+  border-color: white;
+  border: 20px;
+  width: 100%;
+}
+.TabelaCenter {
+  justify-content: center;
+  align-items: center;
+}
+.gray th {
+  background-color: #212529;
+  border: 1px solid white;
+  color: white;
+}
+
+.gray td {
+  background-color: #212529;
+  border: 1px solid white;
+  color: white;
+}
+
+.imgPersonagens {
+  width: 150px;
+  height: 150px;
+}
+
+.textoRadio {
+  padding-top: 3%;
+  font-size: 20px;
+  color: aliceblue;
+}
+
+.texto {
+  padding-top: 3%;
+  color: aliceblue;
+}
+
+.textoPort {
+  color: rgb(254, 254, 254);
+  font-size: 16px;
+}
+
+.imgPorts {
+  width: 100%;
+  height: 75%;
+  border-radius: 150%;
+}
+
+.imgPorts:hover {
+  scale: 1.05;
+}
+
+.imgPortsInfo {
+  width: 150px;
+  height: 150px;
+  border-radius: 150%;
+}
+
+@media screen and (min-width: 343px) {
+  a {
+    color: aliceblue;
+  }
+  body {
+    background-color: #212529;
+  }
+
+  .table,
+  .table-bordered,
+  .table-dark {
+    border-color: white;
+    border: 20px;
+  }
+
+  .gray th {
+    background-color: #212529;
+    border: 1px solid white;
+    color: white;
+  }
+
+  .gray td {
+    background-color: #212529;
+    border: 1px solid white;
+    color: white;
+  }
+
+  .imgPersonagens {
+    width: 150px;
+    height: 150px;
+  }
+
+  .textoRadio {
+    padding-top: 3%;
+    color: aliceblue;
+  }
+
+  .texto {
+    color: aliceblue;
+  }
+
+  .textoPort {
+    color: rgb(254, 254, 254);
+    font-size: 15px;
+  }
+
+  .imgPorts {
+    width: 100px;
+    height: 100px;
+    border-radius: 150%;
+  }
+
+  .imgPorts:hover {
+    scale: 1.05;
+  }
+
+  .imgPortsInfo {
+    width: 200px;
+    height: 200px;
+    border-radius: 150%;
+  }
+}
+
+@media screen and (min-width: 700px) {
+  a {
+    color: aliceblue;
+  }
+  body {
+    background-color: #212529;
+  }
+
+  .table,
+  .table-bordered,
+  .table-dark {
+    border-color: white;
+    border: 20px;
+  }
+
+  .gray th {
+    background-color: #212529;
+    border: 1px solid white;
+    color: white;
+  }
+
+  .gray td {
+    background-color: #212529;
+    border: 1px solid white;
+    color: white;
+  }
+
+  .imgPersonagens {
+    width: 150px;
+    height: 150px;
+  }
+
+  .textoRadio {
+    padding-top: 3%;
+    color: aliceblue;
+  }
+
+  .texto {
+    color: aliceblue;
+  }
+
+  .textoPort {
+    color: rgb(254, 254, 254);
+    font-size: 25px;
+  }
+
+  .imgPorts {
+    width: 150px;
+    height: 150px;
+    border-radius: 150%;
+  }
+
+  .imgPortsInfo {
+    width: 250px;
+    height: 250px;
+    border-radius: 150%;
+  }
+}
+
+@media screen and (min-width: 1000px) {
+  a {
+    color: aliceblue;
+  }
+  body {
+    background-color: #212529;
+  }
+
+  .table,
+  .table-bordered,
+  .table-dark {
+    border-color: white;
+    border: 20px;
+  }
+
+  .gray th {
+    background-color: #212529;
+    border: 1px solid white;
+    color: white;
+  }
+
+  .gray td {
+    background-color: #212529;
+    border: 1px solid white;
+    color: white;
+  }
+
+  .imgPersonagens {
+    width: 150px;
+    height: 150px;
+  }
+
+  .textoRadio {
+    padding-top: 3%;
+    color: aliceblue;
+  }
+
+  .texto {
+    color: aliceblue;
+  }
+
+  .textoPort {
+    color: rgb(254, 254, 254);
+    font-size: 25px;
+  }
+
+  .imgPorts {
+    width: 200px;
+    height: 200px;
+    border-radius: 150%;
+  }
+
+  .imgPortsInfo {
+    width: 300px;
+    height: 300px;
+    border-radius: 150%;
+  }
+}
+@media screen and (min-width: 1650px) {
+  a {
+    color: aliceblue;
+  }
+  body {
+    background-color: #212529;
+  }
+
+  .table,
+  .table-bordered,
+  .table-dark {
+    border-color: white;
+    border: 20px;
+  }
+
+  .gray th {
+    background-color: #212529;
+    border: 1px solid white;
+    color: white;
+  }
+
+  .gray td {
+    background-color: #212529;
+    border: 1px solid white;
+    color: white;
+  }
+
+  .imgPersonagens {
+    width: 150px;
+    height: 150px;
+  }
+
+  .textoRadio {
+    padding-top: 3%;
+    color: aliceblue;
+  }
+
+  .texto {
+    color: aliceblue;
+  }
+
+  .textoPort {
+    color: rgb(254, 254, 254);
+    font-size: 25px;
+  }
+
+  .imgPorts {
+    width: 250px;
+    height: 250px;
+    border-radius: 150%;
+  }
+
+  .imgPortsInfo {
+    width: 350px;
+    height: 350px;
+    border-radius: 150%;
+  }
+}
